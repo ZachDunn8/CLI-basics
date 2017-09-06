@@ -1,0 +1,5 @@
+ Head - first 10 line
+ Tail - last 10 lines
+ rmdir - remove directory
+ mkdir - creates a directory
+ 
